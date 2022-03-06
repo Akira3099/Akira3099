@@ -5,7 +5,7 @@ I’m currently learning integration between a game engine and sound middleware,
 Please contact me via E-mail or SNS, and I'm glad if you follow me on SNS :)
 - HP:akirayoshida.net
 - Email:tyoshida3099@gmail.com
-- Twitter:twitter.com/Akira3099
+- Twitter:Twitter.com/Akira3099
 - Instagram:https://www.instagram.com/akira_3099
 
 Thank you!!
