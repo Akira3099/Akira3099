@@ -8,6 +8,8 @@
 - Twitter:twitter.com/Akira3099
 - Instagram:https://www.instagram.com/akira_3099
 
+Thank you!!
+
 <!---
 Akira3099/Akira3099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
