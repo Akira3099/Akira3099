@@ -8,7 +8,7 @@ Please contact me via E-mail or SNS, and I'm glad if you follow me on SNS :)
 - Twitter:Twitter.com/Akira3099
 - Instagram:https://www.instagram.com/akira_3099
 
-*Wwise Certification holder(Wwise101,201,251,301)
+*Wwise Certification holder(Wwise-101,201,251,301)
 
 Thank you!!
 
